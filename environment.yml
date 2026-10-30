@@ -1,0 +1,20 @@
+name: cms
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - hist
+  - vector
+  - coffea
+  - awkward
+  - mplhep
+  - uproot
+  - pandas
+  - matplotlib
+  - iminuit
+  - xrootd
+  - root
+  - jupyterlab
+  - scipy
+  - git
+prefix: /home/marija/miniforge3/envs/cms
